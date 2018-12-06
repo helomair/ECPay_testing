@@ -1,0 +1,3 @@
+# 忽略 Config.php
+	*.Config
+	Config.php
