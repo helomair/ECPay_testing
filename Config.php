@@ -9,8 +9,7 @@
         const ECPay_EncryptType = '1';                                                         //CheckMacValue加密類型，固定填入1，使用SHA256加密
 
         //基本參數
-        const ECPay_ReturnURL   = '140.123.15.13/ECPay_testing/example/receive.php';
-        const testing = 0;
+        const ECPay_ReturnURL   = '';
     }
 
 ?>
